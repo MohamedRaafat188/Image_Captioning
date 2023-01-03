@@ -1,0 +1,1 @@
+This folder conatains the trained encoder and decoder
